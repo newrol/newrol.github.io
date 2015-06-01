@@ -27,7 +27,7 @@ collections:
   itCollection:
     output: true
   
-  writinCollection:
+  writingCollection:
     output: true
 
   notesCollection:

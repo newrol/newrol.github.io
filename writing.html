@@ -8,7 +8,7 @@ title: Writing Area
 
   <ul class="utC-list">
   
-    {% for post in site.writingCollection %}
+    {% for post in site.writingCollection reversed  %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -16,6 +16,10 @@ title: Writing Area
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+      <p1>
+          {{ post.content | truncatewords:75}}<br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+      </p1>
     {% endfor %}
   </ul>
   </a></p>
