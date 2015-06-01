@@ -1,23 +1,20 @@
 ---
 layout: default
+title: Writing Area
 ---
-
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Stories</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
+  <ul class="utC-list">
+  
+    {% for post in site.writingCollection %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <p1>
-          {{ post.content | truncatewords:75}}<br>
-            <a href="{{ post.url }}">Read more...</a><br><br>
-        </p1>
       </li>
     {% endfor %}
   </ul>

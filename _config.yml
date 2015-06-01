@@ -26,6 +26,15 @@ collections:
 
   itCollection:
     output: true
+  
+  writinCollection:
+    output: true
+
+  notesCollection:
+    output: true
+
+
+
 
 
 
