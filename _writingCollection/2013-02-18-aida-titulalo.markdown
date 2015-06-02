@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "Aida titulalo"
+date:   2013-02-18 23:59:59
+categories: Writing
+---
+
+El señor Román andaba muy despacio por los pasillos de la clínica. Era el lugar más blanco en el que había estado, nada de color en las paredes, ni un mísero cuadro. Durante su estancia había visto como dos grupos de limpieza se encargaban cada dos días de borrar manchurrones y 
+huellas de esas paredes. Joder un día hasta se corrió en una de las paredes del baño y esos 
+escobilleros andantes lo limpiaron todo sin que nadie dijera nada. Cuantísima repugnancia le 
+inspiraban esas paredes. 
+
+No las echaría en falta cuando lo expulsaran de allí, porque estaba claro que lo iban a echar. 
+Nadie puede hacer lo que él hizo y seguir allí libremente. No puede ser bueno para los avances 
+de  toda esa gente que está en tratamiento. Tiene gracia, lo iban exiliar del único sitio donde 
+un perturbado sexual como él puede vivir y lejos, muy lejos puede curarse. Estaba preparado 
+para cualquier situación que se diera allí dentro.
+
+Abrió la puerta de la sala con mucho cuidado. Nunca había estado en una de esas habitaciones 
+de la parte superior, los chicos comentaban que allí se realizan las visitas. Pero que 
+equivocados estaban. Solo había una mesa en el extremo de la habitación donde se sentaban 
+tres personas y una silla en medio de la sala con una mesita enfrente donde se supone que 
+debía sentarse él. Y como en todas las paredes de todas las salas del edificio, el blanco era 
+protagonista; las batas de los enfermeros eran blancas, sus zapatos, y hasta las uñas de las 
+cuidadoras eran estaban pintadas de ese blanco asqueroso.
+
+- Aquí estoy, soy todo vuestro- dijo Román sin moverse de la puerta.
+
+- Siéntese, vamos a comenzar la entrevista- dijo la chica tras levantarse de la silla y 
+dirigirse a un telefonillo que había en la pared- traigan los artefactos que vamos a 
+empezar- dijo pulsando el botón.
+
+
+A sus lados había dos hombres con portátiles, preparados para escribir todo lo que se dijera en 
+esa habitación.
+
+- Bueno- dijo la chica ejerciendo de guía en la conversación- nos hemos reunido aquí 
+para estudiar cual será el siguiente movimiento de tu tratamiento Román, ya que 
+hemos intentado los métodos más imaginativos y extremista sin ninguna respuesta.
+
+- Lo sé, pero como paciente voluntario…
+
+- ¡silencio!, no hablaras hasta que no traigan la cámara de video. Doctores, esta es la 
+situación: 
+
+Este sujeto contactó con nosotros tres semanas después de que su mujer lo abandonara 
+presa de la desesperación. Él nos dijo al ingresar que su separación no tenía mucha 
+importancia y que su problema estaba relacionado con el sexo en la red. Nosotros, 
+siguiendo los pasos estipulados investigamos y concluimos en una verdad mucho más 
+escalofriante; este señor, que en sus primeros años de matrimonio destilaba cariño y 
+bondad hacia su mujer poco a poco volvió sus hábitos sexuales más violentos, llegando 
+incluso a violaciones. Cuando encontramos a su mujer, tenía moratones por todo el 
+cuerpo, desgarro vaginal e incluso marcas alrededor del cuello.
+
+- ¿Niega usted esto?, Román.
+ 
+- No, todo lo que has mencionado es verídico con la realidad y demostrable. Ojalá ella 
+estuviera aquí para poder pedir su perdón.
+
+Llamaron a la puerta y entraron dos enfermeras con diversos aparatos en un carrito. Situaron  
+en la mesa una cámara de video y una pantalla de televisión. Conectaron ambos aparatos y los 
+situaron frente a él.
+
+- Esta cámara grabará toda la información que menciones y la pantalla la usaran al final, 
+
+pero de momento permanecerá desconectada- le dijo una de las enfermeras mientras 
+salía afuera.
+
+-Continuaré con mí testimonio dijo la chica que se paseaba por la habitación:
+
+El sujeto siempre se ha negado a ingerir pastillas para su tratamiento. Y tuvimos que limitarnos a la conversación  y a realizar un seguimiento de su vida en la clínica. Con el tiempo descubrimos que su adicción al sexo aumentaba. Tuvimos de sacarlo de la terapia de grupo, 
+
+quitarle los apoyos masturbatórios, así como todas las revistas. Le cambiaron las enfermeras 
+por varones y tratamos de paliarle el apetito sexual. Pero nada funcionaba
+Pasaron cuatro meses hasta que el celibato empezó a ofrecer signos de mejoría. Aunque su 
+consumo de tabaco aumentó, pudimos ver como canalizaba sus ansias sexuales hacía otras 
+áreas tales como el deporte y las artes plásticas. Tal fue el progreso que decidimos dar un paso en el tratamiento. Aquí fue dónde nos jugamos el tipo, le organizamos una cita.
+
+--
+
+Fui corriendo a abrir la puerta. Allí, frente a mí, había una chica muy joven, perfecta. No tenía ni una sola arruga en la piel, ni un mechón de pelo fuera de su sitio. Era como si acabara de nacer y la hubieran puesto frente allí para satisfacerme. No se movía, tenía ojos pero no mirada.
+
+La cogí con suavidad y la dejé sentada en la cama. No habló, no gritó, no se quejó en ningún 
+momento. Y eso, en gran parte, fue lo que me impulsó a actuar sin contención. Nada de lo que 
+hacía se reflejaba de forma facial. Empecé a desnudarla con mucha suavidad y desde abajo. Tuve que esforzarme en  doblarle las rodillas para poder quitarle los zapatos y bajarle los pantaloncitos con mucho cuidado. Sus piernas eran lisas en su totalidad, nada de celulitis, nada de varices, ni rastro de bello mal depilado, solo suavidad. Yo palpitaba  y le puse las manos entre mis piernas.
+
+Como no me bajaba los pantalones tuve que hacerlo por mi propia cuenta. Le puse mi pene 
+duro como el acero entre sus manos. No sentí el dulce calor de sus dedos pero me dio igual, 
+empecé a deslizar su mano sobre la superficie de mi pene.
+Cuando me aburrí de esa postura la tumbé en la cama y termine de desvestirla. Sus pechos 
+brillaban bajo la luz y sentándome encima de su vientre comencé a masturbarme entre ellos. 
+Yo no la miré en ningún momento, miraba al techo mientas estrujaba sus senos y me movía 
+cada vez más rápido.
+
+Me corrí, así de simple. Mientras temblaba de placer y le empapaba todo el cuello y la cara. 
+Ella no se movió y no dijo ni una sola palabra. Ni un gesto de felicidad.
+Ese fue solo el comienzo. Después la penetré sin ninguna delicadeza, estaba fuera de mí y con 
+cada embestida embrutecía más, la cogí del cuello y empecé a gritarle que gimiera. En 
+concreto le dije “gime puta, sé que te estás divirtiendo con esto”. La golpeé varias veces y la 
+estrangulé sin parar hasta que volví a terminar.
+
+--
+
+- ¿ es usted consciente de que pusimos a su disposición una muñeca Real Doll y no una 
+mujer real?- dijo uno de los hombres.
+
+- Claro que lo sabía estúpido. Desde el principio. Pero conforme avanzaba en el acto mi 
+mente se nubló y terminé como he descrito.
+
+- ¿sabe usted que si hubiéramos puesto a una mujer de verdad, a una prostituta, como 
+nos pidió, ahora mismo estaría usted en un juicio por asesinato? O peor aún, ¿sabe 
+que la cabeza que hay en su habitación podría ser la de su esposa y no un simple trozo 
+de plástico?
+
+- Perfectamente. Ha de saber que nunca le hubiera echo eso a una mujer de verdad. 
+Aún así entiendo que tiren la toalla conmigo y que me expulsen del lugar.
+
+- ¿Crees que una pobre chica obligada a mantener relaciones contigo sería mucho más 
+expresiva?- dijo la chica-y no, no le vamos a expulsar, le hemos preparado algo mucho 
+más impactante. Mire a la pantalla.
+
+El panel se iluminó y muy lentamente se pudo entrever la imagen de una mujer sentada 
+frente a otra cámara. Era la mujer de Román y vestía una cara pálida y un sinfín de 
+lagrimones.
+
+-¡Malditos cabronazos, eso es lo que queríais, dejarme en evidencia!- gritó Román, 
+
+perdiendo los nervios y tirando la silla por los aires. - ¡Lo tenías todo preparado puta de 
+mierda! Lo siento cariño… de verdad, no tenías que haber escuchado esto,  por culpa de 
+estos impresentables estas llorando- dijo Román derrumbándose.
+
+- Cállate, ahora ya está clarísimo como eres y que no puedes cambiar por muchos 
+tratamientos a los que te sometas. ¡No quiero verte jamás!
+
+La pantalla se apagó y Román quedó abrazado a ella. Rabiando ira por todos los poros de su 
+cuerpo. 
+
+- ¡Cabrones!, os voy a matar, a todos, y a ti la primera manipuladora de mierda.- dijo 
+
+Román- Estaba en el suelo llorando y golpeándose la cabeza contra el suelo. Y así estuvo un buen rato sin que nadie hiciera nada. Al tiempo y controlando sus movimientos sacó un cuchillo del bolsillo derecho.
+
+- No hagas ninguna estupidez Román, trata de serenarte- dijo uno de los médicos 
+mientras se levantaba corriendo y llamaba a seguridad. La chica y el otro médico se 
+fueron corriendo a la parte contraria de la habitación asustados y gritando.
+
+- Tranquilo, voy a hacer lo que debería de haber hecho hace mucho tiempo, y lo voy a 
+hacer  delante de vuestros estudiosos ojos. Quiero que la imagen os persiga mientras 
+sigáis viviendo de experimentos que le hacéis a gente como yo. Esto se ha acabado.
+Levantó el cuchillo para que todos lo vieran y con un rápido  movimiento se bajó los 
+pantalones y deslizo el filo sobre la superficie de sus genitales. 
+
+Los integrantes de la sala enloquecieron, atónitos antes lo que acababa de suceder. Román 
+se calló sobre el charco de sangre que se estaba formando a sus pies. Gritó unos segundos 
+y luego sumiso del dolor se desmayó.
+
+- ¡Por Dios, que hemos hecho!- gritó la chica. Ahora era ella la que lloraba. Se arrojó 
+encima del Cuerpo de Román- que hemos hecho, ¡que hemos hecho! Un médico, 
+llamad un médico, necesitamos un médico…
