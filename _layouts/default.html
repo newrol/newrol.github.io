@@ -10,29 +10,28 @@
     <div class="page-content">
       
       <div class="wrapper">
-        <div class="btn-group">
-          <button type="button" class="btn btn-primary">Computer Science</button>
+        <div class="menu-buttons">
+          <div class="btn-group">
+            <button type="button" class="btn btn-primary">Computer Science</button>
 
-            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-              <span class="caret"></span>
-              <span class="sr-only">Toggle Dropdown</span>
-            </button>
-            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                
-              <li><a href="#">Posts</a></li>
-              <li><a href="#">Areas</a></li>
-              <!--
-              <li class="divider"></li>
-              <li><a href="#">Books</a></li>
-              -->
-            </ul>
+              <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                <span class="caret"></span>
+                <span class="sr-only">Toggle Dropdown</span>
+              </button>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+                  
+                <li><a href="#">Posts</a></li>
+                <li><a href="#">Areas</a></li>
+                <!--
+                <li class="divider"></li>
+                <li><a href="#">Books</a></li>
+                -->
+              </ul>
 
-      </div>
+          </div>
 
-
-<div class="btn-group">
-  <button  id="button-writting" type="button" class="btn btn-primary" >Writing area
-  </button>
+          <button  id="button-writting" type="button" class="btn btn-primary" >Writing area
+          </button>
   <!--
   <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
     <span class="caret"></span>
@@ -47,15 +46,15 @@
   </ul>
   </button>
   -->
-</div>
 
-<div class="btn-group">
-  <div class="notesBook-button">
-  <button id="button-notes" type="button" class="btn btn-warning">Notes book</button>
-  </div>
-</div>
 
-<br><br><br>
+        <div class="btn-group">
+          <div class="notesBook-button">
+          <button id="button-notes" type="button" class="btn btn-warning">Notes book</button>
+          </div>
+        </div>
+        <br><br><br>
+      </div>  
 
         {{ content }}
       </div>
