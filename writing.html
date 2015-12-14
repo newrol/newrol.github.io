@@ -2,6 +2,8 @@
 layout: default
 title: Writing Area
 ---
+
+
 <div class="home">
 
   <h1 class="page-heading">Stories</h1>
@@ -9,17 +11,25 @@ title: Writing Area
   <ul class="utC-list">
   
     {% for post in site.writingCollection reversed  %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-      <p1>
-          {{ post.content | truncatewords:75}}<br>
-            <a href="{{ post.url }}">Read more...</a><br><br>
-      </p1>
+
+     <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              <div class="mdl-card__supporting-text">
+
+                <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
+                <p><p>                 
+                {{ post.content | truncatewords:75}}<br>
+                
+              </div>
+              <div class="mdl-card__actions">
+                <a href="{{ post.url }}" class="mdl-button">Read more...</a>
+              </div>
+            </div>
+          </section>
+          <br><br><br>  
     {% endfor %}
   </ul>
   </a></p>

@@ -10,58 +10,47 @@
     <div class="page-content">
       
       <div class="wrapper">
-        <div class="menu-buttons">
-          <div class="btn-group">
-            <button type="button" class="btn btn-primary">Computer Science</button>
-
-              <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                <span class="caret"></span>
-                <span class="sr-only">Toggle Dropdown</span>
-              </button>
-              <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                  
-                <li><a href="#">Posts</a></li>
-                <li><a href="#">Areas</a></li>
-                <!--
-                <li class="divider"></li>
-                <li><a href="#">Books</a></li>
-                -->
-              </ul>
-
-          </div>
-
-          <button  id="button-writting" type="button" class="btn btn-primary" >Writing area
-          </button>
-  <!--
-  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-    <span class="caret"></span>
-    <span class="sr-only">Toggle Dropdown</span>
+        
   
-  <ul class="dropdown-menu" role="menu">
-    <li><a href="#">Action</a></li>
-    <li><a href="#">Another action</a></li>
-    <li><a href="#">Something else here</a></li>
-    <li class="divider"></li>
-    <li><a href="#">Separated link</a></li>
-  </ul>
-  </button>
-  -->
-
-
-        <div class="btn-group">
-          <div class="notesBook-button">
-          <button id="button-notes" type="button" class="btn btn-warning">Notes book</button>
-          </div>
-        </div>
-        <br><br><br>
-      </div>  
-
+              
         {{ content }}
+         <style>
+    
+
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+    </style>
+        <a href="#" target="_blank" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast">Give me more  !!  </a>
       </div>
-    </div>
+    
 
     {% include footer.html %}
 
-  </body>
+    </div>
+    </div> 
+    </div>
+  </main>
+</div>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+    ga('create', 'UA-63756690-1', 'auto');
+    ga('send', 'pageview');
+</script>
+  <script src="/public/script/jquery-1.11.3.min.js"></script>
+  <script src="/public/script/bootstrap.min.js"></script>
+  <script src="/public/script/scripts.js"></script>
+  <!-- new -->
+  <script src="/public/script/material.min.js"></script>
+  </body>
 </html>
