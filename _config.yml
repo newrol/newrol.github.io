@@ -8,10 +8,10 @@ description: > # this means to ignore newlines until "baseurl:"
  This is my personal blog and the place where I'll write about different random stuff.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.daninetwork.com" # the base hostname & protocol for your site
+url: "http://blog.danih.ninja" # the base hostname & protocol for your site
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: danihv10
+github_username:  newrol
 
 #Social:
 github: https://github.com/newrol
@@ -34,7 +34,10 @@ collections:
 
 
 
-
+images:
+  name: image-1.jpg
+  name: image-2.jpg
+  name: image-3.jpg
 
 
 
