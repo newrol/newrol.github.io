@@ -1,4 +1,22 @@
 ---
-layout: notes
+layout: default
 title: Notes Book
 ---
+
+<div class="home">
+
+  <h1 class="page-heading">Notes Book</h1>
+
+  <ul class="utC-list">
+  
+  {% for image in site.data.notes.images %}
+
+  <a href="{{ site.baeurl }}/notesCollection/{{ image.name }}" data-lightbox="note"> <img src="{{ site.baeurl }}/notesCollection/{{ image.name }}" height="500" width="350"></a>
+
+  <p><p>
+
+  {% endfor %}
+  </ul>
+  </a></p>
+
+</div>

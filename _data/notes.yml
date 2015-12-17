@@ -1,0 +1,7 @@
+id: gallery
+description: This is the notes gallery in notes book page
+imagefolder: /notesCollection
+images:
+    - name: image-1.jpg
+    - name: image-2.jpg
+    - name: image-3.jpg

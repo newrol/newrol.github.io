@@ -32,13 +32,3 @@ collections:
   notesCollection:
     output: true
 
-
-
-images:
-  name: image-1.jpg
-  name: image-2.jpg
-  name: image-3.jpg
-
-
-
-
