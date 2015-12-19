@@ -4,23 +4,25 @@
   <header class="mdl-layout__header mdl-layout__header--scroll">
     <div class="mdl-layout__header-row">
       <!-- Title -->
-      <span class="mdl-layout-title">Daniel Hernández</span>
+      <span class="mdl-layout-title">{{ site.title }}</span>
       <!-- Add spacer, to align navigation to the right -->
       <div class="mdl-layout-spacer"></div>
       <!-- Navigation -->
       <nav class="mdl-navigation">
-        <a class="mdl-navigation__link" href= "{{ site.baeurl }}/it.html">Computer Science</a>
-        <a class="mdl-navigation__link" href= "{{ site.baseurl }}/writing.html">Writing Área</a>
-        <a class="mdl-navigation__link" href= "{{ site.baeurl }}/notesBook.html">Notes Book</a>
+        <a class="mdl-navigation__link" href= "{{ site.baeurl }}/index.html"><i class="icon-home icon-large"></i> Home</a>
+        <a class="mdl-navigation__link" href= "{{ site.baeurl }}/it.html"><i class="icon-laptop icon-large"></i> Computer Science</a>
+        <a class="mdl-navigation__link" href= "{{ site.baseurl }}/writing.html"><i class="icon-file-text icon-large"></i> Writing Área</a>
+        <a class="mdl-navigation__link" href= "{{ site.baeurl }}/notesBook.html"><i class="icon-book icon-large"></i> Notes Book</a>
       </nav>
     </div>
   </header>
   <div class="mdl-layout__drawer">
-    <span class="mdl-layout-title">Daniel Hernández </span>
+    <span class="mdl-layout-title">{{ site.title }}</span>
     <nav class="mdl-navigation">
-      <a class="mdl-navigation__link" href= "{{ site.basurl }}/it.html">Link</a>
-      <a class="mdl-navigation__link" href= "{{ site.baseurl }}/writing.html">Writing Área</a>
-      <a class="mdl-navigation__link" href= "{{ site.baseurl }}/notesBook.html">Notes Book</a>
+      <a class="mdl-navigation__link" href= "{{ site.baeurl }}/index.html"><i class="icon-home icon-large"></i> Home</a>
+      <a class="mdl-navigation__link" href= "{{ site.baeurl }}/it.html"><i class="icon-laptop icon-large"></i> Computer Science</a>
+      <a class="mdl-navigation__link" href= "{{ site.baseurl }}/writing.html"><i class="icon-file-text icon-large"></i> Writing Área</a>
+      <a class="mdl-navigation__link" href= "{{ site.baeurl }}/notesBook.html"><i class="icon-book icon-large"></i> Notes Book</a>
     </nav>
   </div>
   <main class="mdl-layout__content">
