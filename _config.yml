@@ -16,6 +16,7 @@ github_username:  newrol
 #Social:
 github: https://github.com/newrol
 twitter: https://twitter.com/danihv10
+linkedin: https://es.linkedin.com/in/danielhv
 
 # Build settings:
 markdown: kramdown
@@ -31,3 +32,15 @@ collections:
 
   notesCollection:
     output: true
+
+#Excluded files in jekyll build:
+exclude:
+    - "README.md"
+    - ".travis.yml"
+    - "CNAME"
+    - "Gemfile"
+    - "CNAME"
+    - ".gitignore"
+    - ".sass-cache"
+    - "tmp"
+
