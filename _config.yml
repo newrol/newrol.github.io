@@ -14,9 +14,9 @@ twitter_username: danihv10
 github_username:  newrol
 
 #Social:
-github: https://github.com/newrol
-twitter: https://twitter.com/danihv10
-linkedin: https://es.linkedin.com/in/danielhv
+github: github.com/newrol
+twitter: twitter.com/danihv10
+linkedin: es.linkedin.com/in/danielhv
 
 # Build settings:
 markdown: kramdown
