@@ -2,3 +2,5 @@ _site
 .sass-cache
 /tmp/*
 /.sass-cache/*
+/bower_components/*
+/node_modules/*

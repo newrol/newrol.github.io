@@ -43,4 +43,9 @@ exclude:
     - ".gitignore"
     - ".sass-cache"
     - "tmp"
+    - "bower_components"
+    - "bower.json"
+    - "node_modules"
+    - "package.json"
+    - "Gruntfile.coffee"
 
