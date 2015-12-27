@@ -72,6 +72,22 @@ module.exports = (grunt) ->
           dest: "public/"
 
         }]
+
+      #sly show card list depedencies
+      sly:
+        files: [{
+          expand: true
+          cwd: "bower_components/sly/dist/"
+          src: "sly.min.js"
+          dest: "public/script"
+        },
+        {
+          expand: true
+          cwd: "bower_components/font-awesome/"
+          src: "fonts/*"
+          dest: "public/"
+
+        }]
         
 
     exec:

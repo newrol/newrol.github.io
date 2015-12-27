@@ -2,23 +2,105 @@
 layout: default
 ---
 
-<div class="home">
+  <div class="wrap">
+  <h4>Computer science posts</h4>
+  <div class="scrollbar">
+        <div class="handle">
+          <div class="mousearea"></div>
+        </div>
+      </div>
 
-  <h1 class="page-heading">Posts</h1>
+      <div class="frame" id="basic-it">
+        <ul class="clearfix">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          {% for post in site.itCollection reversed %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p1>
-          {{ post.content | truncatewords:75}}<br>
-            <a href="{{ post.url }}">Read more...</a><br><br>
-        </p1>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+          <li>  
+          <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}">
+    <style>
+      
+      .image-card-wide > .mdl-card__title {
+        height: 176px;
+        background: url('{{ site.baeurl }}/public/assets/images/{{ post.image }}') center / cover;
+      }
+    </style>  
+     <section class="section--center  mdl-shadow--2dp">
+            <div class="image-card-wide mdl-card mdl-cell mdl-cell--12-col">
+              
+              <div class="mdl-card__title mdl-card__title-text">
+                 <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}"> 
+                  {{ post.title }}
+                  </a>
+              </div> 
+
+            </div>     
+      </section>    
+      </a>
+          </li>
+          {% endfor %}
+    
+        </ul>
+      </div>
+      <p><p>
+  </div>
+
+    <p><p><p>
+      
+      <div class="wrap">
+      <h4>Stories</h4>
+
+        <div class="scrollbar">
+        <div class="handle">
+          <div class="mousearea"></div>
+        </div>
+      </div>
+
+      <div class="frame" id="basic-writing">
+        <ul class="clearfix">
+            
+          {% for post in site.writingCollection reversed  %}
+            <li>
+
+              <section class="section--center mdl-shadow--2dp">
+            <div class="mdl-card mdl-cell mdl-cell--12-col">
+              
+              <div class="mdl-card__title">
+
+                  <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              </div> 
+
+            </div>     
+       </section>    
+     
+            </li>
+
+          {% endfor %}
+          
+        </ul>
+      </div>
+
+      <p><p>
+
+      </div>
+
+      <div class="wrap">
+        <h4>Notes</h4>
+
+        <div class="scrollbar">
+          <div class="handle">
+            <div class="mousearea"></div>
+          </div>
+      </div>
+
+      <div class="frame" id="basic-notes">
+        <ul class="clearfix">
+          
+          {% for image in site.data.notes.images %}
+            <li>
+            <a href="{{ site.baeurl }}/notesCollection/{{ image.name }}" data-lightbox="note"> <img src="{{ site.baeurl }}/notesCollection/{{ image.name }}" alt="{{ image.date }}" height="500" width="350"></a>
+            </li>
+          {% endfor %}
+
+        </ul>
+      </div>
+
