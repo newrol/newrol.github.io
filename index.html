@@ -16,7 +16,7 @@ layout: default
           {% for post in site.itCollection reversed %}
 
           <li>  
-          <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}">
+          
     <style>
       
       .image-card-wide > .mdl-card__title {
@@ -27,7 +27,7 @@ layout: default
      <section class="section--center  mdl-shadow--2dp">
             <div class="image-card-wide mdl-card mdl-cell mdl-cell--12-col">
               
-              <div class="mdl-card__title mdl-card__title-text">
+              <div class="mdl-card__title">
                  <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}"> 
                   {{ post.title }}
                   </a>
@@ -35,7 +35,7 @@ layout: default
 
             </div>     
       </section>    
-      </a>
+      
           </li>
           {% endfor %}
     
