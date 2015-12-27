@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: itpost
 title:  "Welcome to Jekyll!"
 date:   2015-05-31 01:53:28
-image: 	"jekyllLogo.png"
+image: 	jekyllLogo.png
 categories: jekyll update
 ---
 ITTTTTTT

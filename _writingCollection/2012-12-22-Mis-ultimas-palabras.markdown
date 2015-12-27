@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writingpost
 title:  "Mis últimas Palabras."
 date:   2012-12-22 23:59:59
 categories: Writing

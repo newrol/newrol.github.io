@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writingpost
 title:  "El día que robaron la pluma de Eón"
 date:   2012-12-15 23:59:59
 categories: Writing

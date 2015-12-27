@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writingpost
 title:  "Román"
 date:   2013-02-18 23:59:59
 categories: Writing

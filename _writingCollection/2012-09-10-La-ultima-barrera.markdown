@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writingpost
 title:  "La última barrera"
 date:   2012-09-10 23:59:59
 categories: Writing

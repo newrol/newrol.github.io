@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writingpost
 title:  "Del tiempo"
 date:   2013-03-05 23:59:59
 categories: Writing
