@@ -3,15 +3,11 @@ layout: default
 ---
 
  <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--6dp">
-            <div class="mdl-card__supporting-text mdl-cell mdl-cell--12-col">
-            
-                <header >
-                  <h1 class="post-title">{{ page.title }}</h1>
-                  <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-                </header>
-                {{ page.content }}<br>
-              </div>
-          </section>
-
-    
-    
+    <div class="mdl-card__supporting-text mdl-cell mdl-cell--12-col">
+        <header >
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        </header>
+        {{ page.content }}<br>
+    </div>
+</section>

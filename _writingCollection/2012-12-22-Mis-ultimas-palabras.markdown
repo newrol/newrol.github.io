@@ -1,6 +1,7 @@
 ---
 layout: writingpost
-title:  "Mis últimas Palabras."
+title:  "Mis últimas Palabras"
+main_sentece: "HARVER OWEN"
 date:   2012-12-22 23:59:59
 categories: Writing
 ---
@@ -8,13 +9,13 @@ categories: Writing
 
 ###DEMENCIA
 
-El despertador comenzó a emitir su estruendo metálico. Casi al instante, el recién consagrado escritor despertó. Si se tratara de un día común despotricaría contra el ruido infernal del aparato durante varios minutos. Pensaría que aprovechar su tiempo de ocio hasta altas horas fue una estupidez. E intentaría ganar algo de sueño obviando tanto el aseo como el desayuno. 
+El despertador comenzó a emitir su estruendo metálico. Casi al instante, el recién consagrado escritor despertó. Si se tratara de un día común despotricaría contra el ruido infernal del aparato durante varios minutos. Pensaría que aprovechar su tiempo de ocio hasta altas horas fue una estupidez. E intentaría ganar algo de sueño obviando tanto el aseo como el desayuno.
 
 Pero hoy volvería al ciclo de forma diferente. Le habían prestado la oportunidad de ocupar un puesto de columnista en el periódico regional. Oferta que aceptó al instante, la noticia le causó tal impacto que ni regateó el sueldo. Un único pensamiento inundaba su mente durante la firma del contrato: dejaría de ser cartero para dedicarse totalmente al oficio amargo. Cambiaría el difundir textos de otros para dar a conocer los propios.
 
 Hasta ahora  todos sus escritos habían sido relatos de prosa vivaz, meticulosos en contenido y forma. Este hecho debía adaptarse a las nuevas exigencias... Aunque mantendría el elemento que caracteriza su creación. Al final del texto, a la derecha y firmado a mano, siempre rezaría su nombre como señal original: Harver Owen.
 
-Las órdenes para el primer día eran claras: debía redactar una crítica sobre el problema con el reciclaje en las localidades colindantes a la capital. Ordenó la información, agrupó los testimonios de sus entrevistados y se sentó frente a su herramienta. 
+Las órdenes para el primer día eran claras: debía redactar una crítica sobre el problema con el reciclaje en las localidades colindantes a la capital. Ordenó la información, agrupó los testimonios de sus entrevistados y se sentó frente a su herramienta.
 
 Era una máquina de escribir muy modesta, un regalo de su padre. En el pueblo donde creció  era tradición regalar un instrumento musical a los jóvenes para fomentar su creatividad. Pero su progenitor optó por otro tipo de instrumento. Constaba de un panel repleto de botones donde cada letra estaba tatuada en un tamiz dorado, de unas varillas metálicas conectadas a cada botón, y de un soporte donde situar el folio para su fusilamiento ideal.
 
@@ -30,11 +31,11 @@ Escrito en el folio se podía leer:
 
 << Erase un mundo donde el hombre se juzgaba por la cantidad de basura que generaba sin control y se le condenaba a morir asfixiado en sus propios excrementos. >>  
 
-Harver trató de  tomar el control. Arrancó el papel, lo destrozó entre sus manos, y situó otro en su lugar. 
+Harver trató de  tomar el control. Arrancó el papel, lo destrozó entre sus manos, y situó otro en su lugar.
 
 Empezó a reescribir el artículo, ideó un sinfín de comienzos diferentes, utilizó casi todos sus folios. Nada resultaba. Le era imposible plasmar lo que pensaba. Cada vez que intentaba escribir una palabra, la máquina le devolvía otra diferente. Incluso cuando pulsaba la tecla “espacio” podía ver como se colocaba una letra para completar una palabra. Lo mismo sucedía cuando escribía una palabra y para mantener la coherencia del texto que se estaba escribiendo, se desplazaba un espacio.
 
-Al amanecer, tras muchos cafés, Varias cajetillas de tabaco consumidas y restos de su cabellera arrancados a tirones, solo había escrito dos cuentos sobre la necesidad del reciclaje. Y ya era la hora de entregar su trabajo. 
+Al amanecer, tras muchos cafés, Varias cajetillas de tabaco consumidas y restos de su cabellera arrancados a tirones, solo había escrito dos cuentos sobre la necesidad del reciclaje. Y ya era la hora de entregar su trabajo.
 
 
 ###LA ENTREGA
@@ -46,7 +47,7 @@ Le entregó con manos sudorosas y temblando dos folios en cuyo interior estaban 
 
 - No se vaya, los leeré aquí - dijo el “jefe” tras cogerlos y ponerse las gafas de leer.
 
--Como usted desee- respondió Harver tragando saliva e intentando disimular  su estado de nerviosismo. 
+-Como usted desee- respondió Harver tragando saliva e intentando disimular  su estado de nerviosismo.
 
 El director comenzó a leer y los signos de concentración eran visibles para Harver. Podía ver sus ojos saltando de palabra en palabra. Cayendo en picado cuando avanzaba de párrafo. Pero no era capaz de discernir su posición hacia el texto. Quizás le pareciera arriesgado y a su vez atractivo para los lectores.
 
@@ -68,7 +69,7 @@ El director se sentó en la silla y levantando el dedo invitó a Harver a que sa
 ###SEGUNDA OPORTUNIDAD
 
 
-Disponía de un día completo para componer un nuevo artículo. Podía escribirlo a mano, esta opción se le había ocurrido a últimas horas de la noche, y había funcionado. Si redactaba el texto con un bolígrafo o pluma sí era capaz de hacer el escrito que estaba buscando. Pero en el momento que trataba de copiarlo a máquina, ella le devolvía algo diferente, algo que no se parecía en nada. 
+Disponía de un día completo para componer un nuevo artículo. Podía escribirlo a mano, esta opción se le había ocurrido a últimas horas de la noche, y había funcionado. Si redactaba el texto con un bolígrafo o pluma sí era capaz de hacer el escrito que estaba buscando. Pero en el momento que trataba de copiarlo a máquina, ella le devolvía algo diferente, algo que no se parecía en nada.
 
 Mientras abría la puerta para salir a la calle y encaminarse hacia casa  se le ocurrió visitar a su amigo Henry. Fue él quien le recomendó el puesto vacante de crítico y seguro que le ayudaría en su primer trabajo.
 
@@ -90,7 +91,7 @@ Al poco la puerta se abrió. Harver subió corriendo los escalones, era muy raro
 
 El lugar representaba la antítesis de lo acogedor. Conforme la luz entraba en el cuarto se iba desvaneciendo a causa del polvo que impregnaba el ambiente. No había muebles, solo mesas con montones de periódicos abiertos. A la izquierda se podía ver una cocina mugrienta que Harver evitaba a toda costa. Y en contraste a tal desorden, en medio del comedor, una cama cuyas sábanas permanecían alineadas a la perfección.
 
-- Necesito entregar mi artículo bien redactado y corregido para mañana si quiero mantener el puesto que tú me recomendaste, pero mi máquina se ha estropeado y no tiene solución inmediata. Me preguntaba si podría usar la tuya solo por esta vez- preguntó Harver 
+- Necesito entregar mi artículo bien redactado y corregido para mañana si quiero mantener el puesto que tú me recomendaste, pero mi máquina se ha estropeado y no tiene solución inmediata. Me preguntaba si podría usar la tuya solo por esta vez- preguntó Harver
 
 - ¿Tu usar a Olivia?, ¿te has vuelto loco?... escríbelo a mano- respondió Henry
 
@@ -112,7 +113,7 @@ Henry dirigió a Harver ante un pequeño zapatero. Al parecer lo usaba para guar
 
 -Muchísimas gracias, sabía que podía confiar en ti y que no me fallarías.
 
-- Sí, tu confianza era abrumadora... te explico: has de aplicarle lubricante a todas las teclas o se encasquillaran, y cuando un soldado está en mitad de una guerra lo peor que puede suceder es que el arma deje de funcionar. En segundo lugar; el timbre que se activa cuando has llegado al final de la línea no funciona, así que debes permanecer atento. Y para terminar cojea un poco del lado derecho- Le informó Henry señalando uno a uno los defectos. 
+- Sí, tu confianza era abrumadora... te explico: has de aplicarle lubricante a todas las teclas o se encasquillaran, y cuando un soldado está en mitad de una guerra lo peor que puede suceder es que el arma deje de funcionar. En segundo lugar; el timbre que se activa cuando has llegado al final de la línea no funciona, así que debes permanecer atento. Y para terminar cojea un poco del lado derecho- Le informó Henry señalando uno a uno los defectos.
 
 -¡Es perfecta!, vigila las  próximas publicaciones del  “Tinta Fresca”, porque te aseguro que destacaré.
 
@@ -139,7 +140,7 @@ En el preciso instante que alcanzaba el final del renglón escuchó la campanill
 -Imposible- pensó Harver- si esta máquina tiene la campanilla rota.
  Volvió a la línea anterior, al punto exacto donde, si pulsaba una tecla se volvería a escuchar el timbre. De nuevo, el timbré sonó. Pero no frente él. Sabía perfectamente de dónde nacía el sonido.
 
-Se dirigió al armario, al escondite que pensaba no volver a abrir hasta pasado tiempo. 
+Se dirigió al armario, al escondite que pensaba no volver a abrir hasta pasado tiempo.
 Allí estaba, burlándose de él, con el cilindro rotativo corrido hasta el extremo, esperando para seguir punteando.
 
 -Esto no es posible, el colmo del surrealismo, mi mente me la está jugando- dijo Harver- no existe otra explicación.
@@ -176,7 +177,7 @@ Esperó a que recogiera todos sus utensilios y se marchara. Se sentó en su escr
 
 Sentía que no le quedaban fuerzas para más, su cuerpo se agotaba y el atardecer se cerraba en la oscuridad. Tuvo que encender una vela ya que le habían cortado la luz porque se había olvidado pagar la factura.
 
-Pero aún quedaba algo que hacer, algo que escribir. Cogió la máquina que le había regalado su padre, aquella que tanto odiaba, y la preparó para escribir. Le cambió la cinta de tinta y unió varios folios, pegando la parte superior de uno a la inferior de otro. Así no tendría que levantarse a cambiar cuando se uno se terminara. 
+Pero aún quedaba algo que hacer, algo que escribir. Cogió la máquina que le había regalado su padre, aquella que tanto odiaba, y la preparó para escribir. Le cambió la cinta de tinta y unió varios folios, pegando la parte superior de uno a la inferior de otro. Así no tendría que levantarse a cambiar cuando se uno se terminara.
 Una vez terminado ese este proceso dejó la máquina en su mesilla de noche, bajo la ventana.
 
 Él se tumbó en su cama, a su lado puso la máquina con la que escribía sus artículos y un paquete de folios. Comenzó a escribir:
@@ -198,7 +199,7 @@ Levantó la cabeza y a diferencia de veces anteriores sintió con orgullo como l
 
 El despertador comenzó a emitir su estruendo metálico... >>
 
-Siguió escribiendo. Cada vez que terminaba un folio, leía con una sonrisa el de la mesilla y usaba la vela que tenía encendida para quemar el suyo. Volvía a colocar uno y proseguía tecleando, ansioso por descubrir hasta dónde podría llegar. 
+Siguió escribiendo. Cada vez que terminaba un folio, leía con una sonrisa el de la mesilla y usaba la vela que tenía encendida para quemar el suyo. Volvía a colocar uno y proseguía tecleando, ansioso por descubrir hasta dónde podría llegar.
 
 Avanzaron  las horas en la noche y el ya llevaba cinco folios quemados. Sin embargo desde la otra máquina, el escrito verdadero llegaba a los pies de la cama, y no tenía intención de parar. Tal fue el agotamiento de Harver que se durmió mientras escribía. La cabeza cayó sobre el teclado, concretamente en la tecla espacio.
 

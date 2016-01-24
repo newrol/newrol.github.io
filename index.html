@@ -15,37 +15,37 @@ layout: default
 
           {% for post in site.itCollection reversed %}
 
-          <li>  
-          
+          <li>
+
     <style>
-      
+
       .image-card-wide > .mdl-card__title {
         height: 176px;
         background: url('{{ site.baeurl }}/public/assets/images/{{ post.image }}') center / cover;
       }
-    </style>  
+    </style>
      <section class="section--center  mdl-shadow--2dp">
             <div class="image-card-wide mdl-card mdl-cell mdl-cell--12-col">
-              
+
               <div class="mdl-card__title">
-                 <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}"> 
+                 <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}">
                   {{ post.title }}
                   </a>
-              </div> 
+              </div>
 
-            </div>     
-      </section>    
-      
+            </div>
+      </section>
+
           </li>
           {% endfor %}
-    
+
         </ul>
       </div>
       <p><p>
   </div>
 
     <p><p><p>
-      
+
       <div class="wrap">
       <h4>Stories</h4>
 
@@ -57,25 +57,29 @@ layout: default
 
       <div class="frame" id="basic-writing">
         <ul class="clearfix">
-            
+
           {% for post in site.writingCollection reversed  %}
             <li>
 
               <section class="section--center mdl-shadow--2dp">
             <div class="mdl-card mdl-cell mdl-cell--12-col">
-              
+
               <div class="mdl-card__title">
-
                   <a class="mdl-card__title-text" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-              </div> 
+              </div>
 
-            </div>     
-       </section>    
-     
+              <div class="mdl-card__subtitle-text">
+                  {{ post.main_sentece }}
+              </div>
+
+
+            </div>
+       </section>
+
             </li>
 
           {% endfor %}
-          
+
         </ul>
       </div>
 
@@ -94,7 +98,7 @@ layout: default
 
       <div class="frame" id="basic-notes">
         <ul class="clearfix">
-          
+
           {% for image in site.data.notes.images %}
             <li>
             <a href="{{ site.baeurl }}/notesCollection/{{ image.name }}" data-lightbox="note"> <img src="{{ site.baeurl }}/notesCollection/{{ image.name }}" alt="{{ image.date }}" height="500" width="350"></a>
@@ -103,4 +107,3 @@ layout: default
 
         </ul>
       </div>
-

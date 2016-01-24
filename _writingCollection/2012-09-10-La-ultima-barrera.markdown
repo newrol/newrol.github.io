@@ -1,6 +1,7 @@
 ---
 layout: writingpost
 title:  "La última barrera"
+main_sentece: "A la luz intermitente de un foco oxidado..."
 date:   2012-09-10 23:59:59
 categories: Writing
 ---
