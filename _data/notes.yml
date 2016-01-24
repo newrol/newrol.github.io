@@ -18,9 +18,5 @@ id: gallery
 description: This is the notes gallery in notes book page
 imagefolder: /notesCollection
 images:
-    - name: image-1.jpg
-      date: 14-05-2015
-    - name: image-2.jpg
-      date: 15-05-2015
-    - name: image-3.jpg
-      date: 16-05-2015
+    - name: selvaOcarcel.jpg
+      date: 23-01-2016
