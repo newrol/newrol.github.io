@@ -127,7 +127,7 @@ Cuando entró a su cuarto y encima de la mesa vio a su antigua compañera de esc
 
 Preparó un café para vencer al sueño, hizo los preparativos que Henry le había dictado y comenzó a escribir con la mirada fija en el folio para que no se escapara ninguna letra:
 
-<<La comodidad se ha establecido en nuestras vidas>>
+<< La comodidad se ha establecido en nuestras vidas >>
 
 - ¡bien!- gritó Harver con euforia.
 
