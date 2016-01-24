@@ -19,14 +19,16 @@ twitter: twitter.com/danihv10
 linkedin: es.linkedin.com/in/danielhv
 
 # Build settings:
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
 #Collections:
 collections:
 
   itCollection:
     output: true
-  
+
   writingCollection:
     output: true
 
@@ -48,4 +50,3 @@ exclude:
     - "node_modules"
     - "package.json"
     - "Gruntfile.coffee"
-
