@@ -99,7 +99,7 @@ layout: default
       <div class="frame" id="basic-notes">
         <ul class="clearfix">
 
-          {% for image in site.data.notes.images %}
+          {% for image in site.data.notes.images reversed %}
             <li>
             <a href="{{ site.baeurl }}/notesCollection/{{ image.name }}" data-lightbox="note"> <img src="{{ site.baeurl }}/notesCollection/{{ image.name }}" alt="{{ image.date }}" height="500" width="350"></a>
             </li>
