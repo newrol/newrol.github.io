@@ -20,5 +20,6 @@ imagefolder: /notesCollection
 images:
     - name: selvaOcarcel.jpg
       date: 23-01-2016
-  	- name: chloe.jpg
+    - name: chloe.jpg
       date: 24-01-2016
+
