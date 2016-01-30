@@ -73,3 +73,18 @@
   width:125px;
   height:125px;
 }
+
+.icons-box {
+  
+  width: auto;
+  height: auto;
+  margin-left: 2em;
+}
+
+.social-icon {
+  width: 35px;
+  height: 35px;
+  float:left;
+  margin-left: 1em;
+}
+
