@@ -34,7 +34,9 @@ In the libraries downloading and maintaining dependencies areas i uses:
   * **[Font-awesome][fontAwesome]**
   * **[Sly][sly]**
 
-[Github pages][githubpages] uses [Flavored Mardown][flavoredMarkdown], a simple text formating render, to hel us writing texts.
+[Github pages][githubpages] uses [Flavored Mardown][flavoredMarkdown], a simple text formating render, to help us writing texts.
+
+With this stack we have a simple, organized and out of php writing environment. Some changes coming soon and more above-mentioned technologies will have their own post.
 
 
 
