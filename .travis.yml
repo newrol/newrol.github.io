@@ -3,7 +3,7 @@ rvm:
   - 2.1
 script:
   - bundle exec jekyll build #build the site into _site on the Travis server
-  - bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html #extended definition#
+#  - bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html #extended definition#
     ### --only-4xx. This tells HTML Proofer to only throw an error when it hits an error message in the 400-499 range. This means it ignores errors like 500 or 503
     ### --check-favicon. This does exactly what it says on the tin, it ensures you have correct favicons configured for the site.
     ### --check-html. This uses Nokogiri to check that HTML is well formed
