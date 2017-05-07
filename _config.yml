@@ -1,52 +1,38 @@
 # Site settings
 title: Daniel Hernández
-email: daniel.hernandez.vicente@gmail.com
+description: ''
+url: 'http://blog.danihernandez.me'
+baseurl: '/blog/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
+author:
+  name: 'Daniel Hernández'
+  email: daniel.hernandez.vicente.@gmail.com
+  twitter_username: danihv10
+  github_username:  newrol
+  linkedin_username:  danielhv
 
-description: > # this means to ignore newlines until "baseurl:"
- Hi I'm Daniel, a Software craftsman, impulsive reader and challenges accepter.
- This is my personal blog and the place where I'll write about different random stuff.
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.danihernandez.me" # the base hostname & protocol for your site
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
 
-twitter_username: danihv10
-github_username:  newrol
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-#Social:
-github: github.com/newrol
-twitter: twitter.com/danihv10
-linkedin: es.linkedin.com/in/danielhv
-
-# Build settings:
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
-
-#Collections:
-collections:
-
-  itCollection:
-    output: true
-
-  writingCollection:
-    output: true
-
-  notesCollection:
-    output: true
-
-#Excluded files in jekyll build:
-exclude:
-    - "README.md"
-    - ".travis.yml"
-    - "CNAME"
-    - "Gemfile"
-    - "CNAME"
-    - ".gitignore"
-    - ".sass-cache"
-    - "tmp"
-    - "bower_components"
-    - "bower.json"
-    - "node_modules"
-    - "package.json"
-    - "Gruntfile.coffee"
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
